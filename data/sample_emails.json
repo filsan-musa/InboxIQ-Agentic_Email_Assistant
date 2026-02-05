@@ -1,0 +1,170 @@
+[
+    {
+      "id": 1,
+      "subject": "URGENT: IBM watsonx Hackathon Submission - 20 Hours Remaining",
+      "sender": "IBM Hackathon Team <hackathon@ibm.com>",
+      "role": "hackathon",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "FINAL REMINDER: Your project submission is due today at 10:00 AM EST. This is a HARD deadline. You must upload demo video, pitch deck, technical documentation, and working prototype access. Late submissions will NOT be accepted."
+    },
+    {
+      "id": 6,
+      "subject": "LinkedIn: 19 people viewed your profile",
+      "sender": "LinkedIn Notifications <notifications@linkedin.com>",
+      "role": "social",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Your profile is getting attention this week."
+    },
+    {
+      "id": 7,
+      "subject": "Amazon: Your order has been delivered",
+      "sender": "Amazon Shipment Tracking <shipment-tracking@amazon.com>",
+      "role": "service",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Your textbook delivery is complete."
+    },
+    {
+      "id": 8,
+      "subject": "Final Exam Schedule Released",
+      "sender": "Registrar Office <registrar@university.edu>",
+      "role": "admin",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Your final exam timetable is now available in the student portal."
+    },
+    {
+      "id": 9,
+      "subject": "ACTION REQUIRED: GitHub Repository Access Expiring",
+      "sender": "GitHub Security <security@github.com>",
+      "role": "work",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Your collaborator access to project InboxIQ expires in 24 hours."
+    },
+    {
+      "id": 10,
+      "subject": "Reminder: Robotics Lab Safety Training",
+      "sender": "Engineering Lab Admin <lab-admin@university.edu>",
+      "role": "admin",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Mandatory safety session tomorrow at 11 AM."
+    },
+    {
+      "id": 11,
+      "subject": "Scholarship Application Deadline Tonight",
+      "sender": "Grad Funding Office <funding@university.edu>",
+      "role": "admin",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Submit materials before 11:59 PM tonight."
+    },
+    {
+      "id": 12,
+      "subject": "Team Meeting Moved Earlier",
+      "sender": "Project Lead <lead@startup.ai>",
+      "role": "work",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Meeting now at 10:30 instead of 1 PM."
+    },
+    {
+      "id": 13,
+      "subject": "Conference Travel Grant Approved",
+      "sender": "Research Office <research@university.edu>",
+      "role": "admin",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Your travel grant request has been approved."
+    },
+    {
+      "id": 14,
+      "subject": "Weekly ML Seminar Today",
+      "sender": "CS Department <cs-events@university.edu>",
+      "role": "academic",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Speaker: Reinforcement Learning in Robotics."
+    },
+    {
+      "id": 15,
+      "subject": "Your Zoom Recording is Ready",
+      "sender": "Zoom <no-reply@zoom.us>",
+      "role": "service",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Your meeting recording has been processed."
+    },
+    {
+      "id": 16,
+      "subject": "URGENT: Account Password Expires Today",
+      "sender": "IT Helpdesk <helpdesk@university.edu>",
+      "role": "admin",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Reset your password immediately to avoid lockout."
+    },
+    {
+      "id": 17,
+      "subject": "Flash Sale — 50% Off Headphones",
+      "sender": "TechDeals <promo@techdeals.com>",
+      "role": "ad",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Limited time electronics discount."
+    },
+    {
+      "id": 18,
+      "subject": "Instagram: You have 3 new followers",
+      "sender": "Instagram <notify@instagram.com>",
+      "role": "social",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "See who's following you."
+    },
+    {
+      "id": 19,
+      "subject": "New AI Course Recommendation",
+      "sender": "Coursera <recommendations@coursera.org>",
+      "role": "promo",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Advanced Deep Learning course now available."
+    },
+    {
+      "id": 20,
+      "subject": "Pizza Deal Near You",
+      "sender": "FoodieAlerts <offers@foodie.com>",
+      "role": "ad",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Buy one get one free."
+    },
+    {
+      "id": 21,
+      "subject": "Weather Alert: Snow Expected",
+      "sender": "Weather Service <alerts@weather.gov>",
+      "role": "service",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Snowfall expected this afternoon."
+    },
+    {
+      "id": 22,
+      "subject": "Your Bank Statement is Ready",
+      "sender": "CityBank <alerts@citybank.com>",
+      "role": "finance",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "January statement available online."
+    },
+    {
+      "id": 23,
+      "subject": "Flight Price Drop Alert",
+      "sender": "SkyScanner <alerts@skyscanner.com>",
+      "role": "promo",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Flights to New York now cheaper."
+    },
+    {
+      "id": 24,
+      "subject": "Your Subscription Renews Tomorrow",
+      "sender": "Netflix Billing <billing@netflix.com>",
+      "role": "service",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Your monthly plan renews automatically."
+    },
+    {
+      "id": 25,
+      "subject": "Daily News Digest",
+      "sender": "MorningBrief <news@briefing.com>",
+      "role": "newsletter",
+      "date": "Feb. 4, 2026 @ 5:50PM",
+      "body": "Top headlines of the day."
+    }
+  ]
