@@ -1,0 +1,5 @@
+Classify this email and tell me if it’s urgent.
+
+Decide whether this email should trigger a Slack notification.
+
+Summarize this email and highlight urgent email content.
