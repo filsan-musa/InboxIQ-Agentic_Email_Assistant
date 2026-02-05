@@ -1,0 +1,27 @@
+An email is considered urgent if one or more of the following is true:
+
+Contains deadlines within 48 hours
+
+Includes words like "ASAP", "urgent", "final reminder", "deadline"
+
+Is a direct request for approval, review, or meeting scheduling
+
+Indicates a blocker or dependency
+
+Comes from a supervisor, professor, or official authority
+
+An email is non-urgent if:
+
+It is informational only (newsletters, notifications)
+
+It does not contain requests or deadlines
+
+It is promotional or social media related
+
+For urgent emails:
+
+Provide a brief summary
+
+Highlight the deadline
+
+Mark as needing immediate attention
