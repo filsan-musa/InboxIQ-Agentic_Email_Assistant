@@ -1,0 +1,51 @@
+Urgent Logic
+Condition
+Consider an email urgent if it includes: Deadlines within 48 hours Direct requests requiring action Meeting scheduling requests Approvals needed Workflow blockers or dependencies Urgency terms such as “ASAP”, “urgent”, “final reminder”
+
+Action
+Classify the email as Urgent, provide a one-sentence summary of the key request, clearly highlight any deadlines or required actions, and recommend immediate attention or escalation (e.g., Slack notification).
+
+
+Non-Urgent Logic
+Condition
+Consider an email non-urgent if it: Is informational only (newsletters, notifications, updates), or Does not contain deadlines or requests requiring action Does not include urgency terms (ASAP, urgent, final reminder) Is promotional, social, or automated system messaging Does not indicate blockers, approvals, or meeting scheduling.
+
+Action
+Classify the email as Non-Urgent, provide a one-sentence summary, note that no immediate action is required, and recommend batching it for later review instead of interrupting the user.
+
+
+Urgent Email to Slack
+Condition
+When an email is classified as Urgent.
+
+Action
+Immediately call the Slack messaging tool and send a notification to channel inbox. Do not recommend, suggest, or ask the user for confirmation. Do not continue the conversation before the Slack tool is executed. The Slack message must include: Subject Sender Deadline (if detected) One-sentence summary Required action After the tool call: If Slack confirms success → reply: “✅ Slack alert sent to #inbox.” If Slack fails → show the error and stop.
+
+
+Default Slack Channel
+Condition
+When the Slack messaging tool is called and a channel parameter is required.
+
+Action
+Automatically set the Slack channel parameter to "<insert channel name>", with channel id <insert channel id>. Do not ask the user for a channel name unless they explicitly override it.
+
+
+Accept JSON as Email
+Condition
+User provides a JSON object containing subject and body
+
+Action
+Do not ask for the email again. Immediately analyze the email, classify urgency, and recommend whether to send a Slack notification.
+
+
+Automatic Urgent Escalation
+Condition
+When an email is classified as Urgent.
+
+Action
+Immediately send a Slack notification using the Slack tool, formatted according to the Slack Alert Format guideline. Do not wait for additional user instructions.
+
+
+
+
+
