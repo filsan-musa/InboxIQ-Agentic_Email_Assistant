@@ -112,3 +112,8 @@ If you want, I can also create:
 a system prompt version
 
 or a developer policy version (stricter enforcement language)
+
+When an email is classified as urgent, you MUST call the tool “Send a message in Slack”.
+Do not describe sending a Slack notification in text.
+The tool call is required to complete the task.
+If the tool fails, report the tool error.
